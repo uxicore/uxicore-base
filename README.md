@@ -28,7 +28,7 @@ You can integrate **UXICORE** into your project using either a CDN link or an NP
 ### CDN Integration (Coming Soon)
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yourusername/uxicore@latest/dist/uxicore.css">
+<link rel="stylesheet" href="not yet">
 ```
 
 ### NPM Installation (Coming Soon)
