@@ -1,6 +1,4 @@
 
----
-
 # UXICORE
 
 **UXICORE** is an advanced, modern UI component and utility-first library designed to elevate web design and development. With a powerful suite of utilities, cinematic animations, adaptive responsiveness, and AI-powered color systems, UXICORE enables developers to create visually stunning, fully customizable, and responsive websites with ease.
