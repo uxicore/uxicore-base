@@ -73,7 +73,7 @@ Contributions are welcome! You can fork this repository, open issues, or submit 
 
 ## Contact & Support
 
-For support, suggestions, or any questions, please reach out via [GitHub Issues](https://github.com/yourusername/uxicore/issues) or email us at [your.email@example.com](mailto:your.email@example.com).
+For support, suggestions, or any questions, please reach out via [GitHub Issues](https://github.com/yourusername/uxicore/issues) or email us at [jinu8683@gmail.com](mailto:jinu8683@gmail.com).
 
 ---
 
